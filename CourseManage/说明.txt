@@ -1,0 +1,3 @@
+course_selection\WebContent 存放网页源码
+dikzoku 文件夹下存放mysql数据库文件
+Servers 文件夹下为Tomcat 服务器相关配置

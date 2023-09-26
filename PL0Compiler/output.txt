@@ -1,0 +1,19 @@
+JMP 0 1
+INT 0 5
+OPR 0 2
+STO 0 4
+OPR 0 2
+STO 0 3
+LOD 0 4
+LIT 0 3
+OPR 0 4
+STO 0 3
+LOD 0 4
+OPR 0 3
+OPR 0 0
+12
+NameTable:
+name	kind	parameter1	parameter2
+C	CONSTANT	3	0
+A	VARIABLE	0	3
+B	VARIABLE	0	4

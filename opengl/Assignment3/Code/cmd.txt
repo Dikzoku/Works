@@ -1,0 +1,5 @@
+main normal.png normal
+main phong.png phong
+main texture.png texture
+main bump.png bump
+main displacement.png displacement
